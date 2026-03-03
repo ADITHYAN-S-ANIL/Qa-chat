@@ -9,6 +9,16 @@ Users log in with an email and password, then interact with the chat interface t
 
 ---
 
+## 📸 Screenshots
+
+### 🔐 Login Page
+![Login Page](screenshots/login_page.png)
+
+### 💬 Chat Interface
+![Chat Interface](screenshots/chat_interface.png)
+
+---
+
 ## 📁 Project Structure
 
 ```
